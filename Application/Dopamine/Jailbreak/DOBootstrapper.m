@@ -861,6 +861,16 @@ Suites: ./\n\
 Components:\n\
 \n\
 Types: deb\n\
+URIs: https://sileo.click/\n\
+Suites: ./\n\
+Components:\n\
+\n\
+Types: deb\n\
+URIs: https://bvb-roothide.github.io/\n\
+Suites: ./\n\
+Components:\n\
+\n\
+Types: deb\n\
 URIs: https://repo.chariz.com/\n\
 Suites: ./\n\
 Components:\n\
