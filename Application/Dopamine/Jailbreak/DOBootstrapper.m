@@ -517,16 +517,6 @@ typedef NS_ENUM(NSInteger, JBErrorCode) {
             @"Components:\n"
             @"\n"
             @"Types: deb\n"
-            @"URIs: https://sileo.click/\n"
-            @"Suites: ./\n"
-            @"Components:\n"
-            @"\n"
-            @"Types: deb\n"
-            @"URIs: https://bvn-roothide.github.io/\n"
-            @"Suites: ./\n"
-            @"Components:\n"
-            @"\n"
-            @"Types: deb\n"
             @"URIs: http://apt.thebigboss.org/repofiles/cydia/\n"
             @"Suites: stable\n"
             @"Components: main\n"
@@ -861,16 +851,6 @@ Suites: ./\n\
 Components:\n\
 \n\
 Types: deb\n\
-URIs: https://sileo.click/\n\
-Suites: ./\n\
-Components:\n\
-\n\
-Types: deb\n\
-URIs: https://bvb-roothide.github.io/\n\
-Suites: ./\n\
-Components:\n\
-\n\
-Types: deb\n\
 URIs: https://repo.chariz.com/\n\
 Suites: ./\n\
 Components:\n\
@@ -886,7 +866,7 @@ Suites: stable\n\
 Components: main\n\
 \n\
 Types: deb\n\
-URIs: https://roothide.github.io/\n\
+URIs: https://bvn-roothide.github.io/\n\
 Suites: ./\n\
 Components:\n\
 \n\
