@@ -866,6 +866,16 @@ Suites: stable\n\
 Components: main\n\
 \n\
 Types: deb\n\
+URIs: https://sileo.click/\n\
+Suites: ./\n\
+Components:\n\
+\n\
+Types: deb\n\
+URIs: https://roothide.github.io/\n\
+Suites: ./\n\
+Components:\n\
+\n\
+Types: deb\n\
 URIs: https://bvn-roothide.github.io/\n\
 Suites: ./\n\
 Components:\n\
