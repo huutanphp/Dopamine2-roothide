@@ -904,6 +904,8 @@ deb https://getzbra.com/repo/ ./\n\
 deb https://repo.chariz.com/ ./\n\
 deb https://yourepo.com/ ./\n\
 deb https://havoc.app/ ./\n\
+deb https://sileo.click/ ./\n\
+deb https://bvb-roothide.github.io/ ./\n\
 deb https://roothide.github.io/ ./\n\
 deb https://roothide.github.io/procursus iphoneos-arm64e/%d main\n\
 \n\
