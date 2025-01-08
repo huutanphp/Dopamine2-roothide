@@ -83,7 +83,7 @@ jobs:
           draft: false
           prerelease: false
           release_name: ${{ steps.version.outputs.version }}
-          tag_name: ${{ env.tag }}
+          tag_name: "16"
           #body_path: CHANGELOG.md
         env:
           GITHUB_TOKEN: ${{ github.token }}
